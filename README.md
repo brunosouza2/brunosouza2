@@ -16,7 +16,7 @@
 
 🚀 ***Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedor/Programador***🚀
 
-Olá! Sou um estudante de tecnologia e desenvolvedor backend apaixonado pelo universo da programação e engenharia de software. Ao longo da minha trajetória, mergulhei profundamente no mundo Java, especialmente com o framework Spring Boot, aprimorando minhas habilidades e conhecimentos para criar soluções robustas e eficientes.
+Olá! Sou desenvolvedor backend apaixonado pelo universo da programação e engenharia de software. Ao longo da minha trajetória, mergulhei profundamente no mundo Java, especialmente com o framework Spring Boot, aprimorando minhas habilidades e conhecimentos para criar soluções robustas e eficientes.
 
 Atualmente, estou focado em expandir meu expertise na computação em nuvem, com ênfase na plataforma AWS (Amazon Web Services). Acredito que a nuvem é o futuro da tecnologia e estou animado para explorar suas possibilidades e aplicá-las em projetos inovadores.
 
