@@ -14,13 +14,11 @@
 
 ## About me
 
-🚀 ***Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedor/Programador***🚀
+🚀 ***Graduando em Sistemas de Informação | Desenvolvedor Backend***🚀
 
-Olá! Sou desenvolvedor backend apaixonado pelo universo da programação e engenharia de software. Ao longo da minha trajetória, mergulhei profundamente no mundo Java, especialmente com o framework Spring Boot, aprimorando minhas habilidades e conhecimentos para criar soluções robustas e eficientes.
+Olá! Sou desenvolvedor backend apaixonado pelo universo da programação e engenharia de software. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistemas de Informação, ao longo da minha trajetória, mergulhei profundamente no mundo Java, especialmente em desenvolvimento web com o Spring Framework e Spring Boot, focando em aprimorar minhas habilidades e conhecimentos para criar soluções robustas e eficientes.
 
-Atualmente, estou focado em expandir meu expertise na computação em nuvem, com ênfase na plataforma AWS (Amazon Web Services). Acredito que a nuvem é o futuro da tecnologia e estou animado para explorar suas possibilidades e aplicá-las em projetos inovadores.
-
-Um dos aspectos que mais me motiva é enfrentar projetos desafiadores que me levem a superar meus limites e aprimorar minhas habilidades técnicas. Sou movido por desafios que me incentivam a ir além, tanto em termos de tecnologia quanto em engenharia de software.
+Atualmente, estou focado em expandir meu expertise em computação em nuvem, com ênfase em AWS (Amazon Web Services). Um dos aspectos que mais me motiva é enfrentar projetos que me desafiam, me levando a superar meus limites e aprender novas tecnologias. Sou movido por desafios que me incentivam a sair da zona de conforto, tanto em termos de tecnologia quanto em engenharia de software.
 
 Estou sempre em busca de aprender algo novo e de me conectar com outros profissionais da área. Se você está interessado em tecnologia, desenvolvimento de software ou simplesmente quer trocar ideias, ficarei feliz em conversar!
 
